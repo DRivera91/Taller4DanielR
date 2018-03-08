@@ -5,4 +5,14 @@
     <string name="hello_world">¡Hola mundo!</string>
     <string name="action_settings">Ajustes</string>
 
+    <string name="monday">Lunes</string>
+    <string name="tuesday">Martes</string>
+    <string name="wednesday">Miércoles</string>
+    <string name="thursday">Jueves</string>
+    <string name="friday">Viernes</string>
+    <string name="saturday">Sábado</string>
+    <string name="sunday">Domingo</string>
+    <string name="sunny">Soleado</string>
+    <string name="rainy">Lluvioso</string>
+    <string name="cloudy">Nublado</string>
 </resources>

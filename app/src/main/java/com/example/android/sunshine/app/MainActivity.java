@@ -80,7 +80,36 @@ public class MainActivity extends ActionBarActivity {
 
             // Es necesario definir una información dummy para la prueba, por favor agregue
             String[] data = {
-                    ""
+                    getString(R.string.monday)+"   2018/3/12  - "+getString(R.string.sunny)+" -   -10/22",
+                    getString(R.string.tuesday)+"    2018/3/13  - "+getString(R.string.sunny)+" -   -3/33" ,
+                    getString(R.string.wednesday)+"   2018/3/14  - "+getString(R.string.sunny)+" -   -3/30",
+                    getString(R.string.thursday)+"      2018/3/15  - "+getString(R.string.sunny)+" -   19/27",
+                    getString(R.string.friday)+"       2018/3/16  - "+getString(R.string.sunny)+" -   6/25",
+                    getString(R.string.saturday)+"    2018/3/17  - "+getString(R.string.sunny)+" -   0/18",
+                    getString(R.string.sunday)+"    2018/3/18  - "+getString(R.string.sunny)+" -   -5/18",
+                    getString(R.string.monday)+"    2018/3/19  - "+getString(R.string.rainy)+" -   -9/8",
+                    getString(R.string.tuesday)+"    2018/3/20  - "+getString(R.string.sunny)+" -   -8/20",
+                    getString(R.string.wednesday)+"       2018/3/21  - "+getString(R.string.sunny)+" -   0/25",
+                    getString(R.string.thursday)+"       2018/3/22  - "+getString(R.string.rainy)+" -   1/4",
+                    getString(R.string.friday)+"       2018/3/23  - "+getString(R.string.sunny)+" -   -9/15",
+                    getString(R.string.saturday)+"    2018/3/24  - "+getString(R.string.cloudy)+" -   -5/-4",
+                    getString(R.string.sunday)+"    2018/3/25  - "+getString(R.string.sunny)+" -   -4/28",
+                    getString(R.string.monday)+"    2018/3/26  - "+getString(R.string.sunny)+" -   16/22",
+                    getString(R.string.tuesday)+"    2018/3/27  - "+getString(R.string.sunny)+" -   10/21",
+                    getString(R.string.wednesday)+"       2018/3/28  - "+getString(R.string.sunny)+" -   -6/34",
+                    getString(R.string.thursday)+"       2018/3/29  - "+getString(R.string.sunny)+" -   2/23",
+                    getString(R.string.friday)+"       2018/3/30  - "+getString(R.string.rainy)+" -   8/10",
+                    getString(R.string.saturday)+"    2018/3/31  - "+getString(R.string.sunny)+" -   6/25",
+                    getString(R.string.sunday)+"    2018/4/1  - "+getString(R.string.sunny)+" -   -1/20",
+                    getString(R.string.monday)+"    2018/4/2  - "+getString(R.string.sunny)+" -   0/11",
+                    getString(R.string.tuesday)+"    2018/4/3  - "+getString(R.string.sunny)+" -   2/12",
+                    getString(R.string.wednesday)+"       2018/4/4  - "+getString(R.string.sunny)+" -   2/23",
+                    getString(R.string.thursday)+"       2018/4/5  - "+getString(R.string.sunny)+" -   21/28",
+                    getString(R.string.friday)+"       2018/4/6  - "+getString(R.string.sunny)+" -   15/31",
+                    getString(R.string.saturday)+"    2018/4/7  - "+getString(R.string.sunny)+" -   1/24",
+                    getString(R.string.sunday)+"    2018/4/8  - "+getString(R.string.rainy)+" -   -10/-1",
+                    getString(R.string.monday)+"    2018/4/9  - "+getString(R.string.sunny)+" -   11/24",
+                    getString(R.string.tuesday)+ "    2018/4/10  - "+getString(R.string.sunny)+" -   -2/19",
 
             };
             List<String> weekForecast = new ArrayList<String>(Arrays.asList(data));
