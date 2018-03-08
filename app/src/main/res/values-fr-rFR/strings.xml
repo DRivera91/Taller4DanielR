@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Le climat</string>
+    <string name="hello_world">Salut monde!</string>
+    <string name="action_settings">Ajustements</string>
+    <string name="monday">Lundi</string>
+    <string name="tuesday">Mardi</string>
+    <string name="wednesday">Mercredi</string>
+    <string name="thursday">Jeudi</string>
+    <string name="friday">Vendredi</string>
+    <string name="saturday">Samedi</string>
+    <string name="sunday">Dimanche</string>
+    <string name="sunny">Ensoleillé</string>
+    <string name="rainy">Pluvieux</string>
+    <string name="cloudy">nuageux</string>
+</resources>
